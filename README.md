@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad H Tahir</h1>
-<h3 align="center">Expert in React-Native and MERN stack</h3>
+<h3 align="center">Expert Mobile App Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnaintahir&label=Profile%20views&color=0e75b6&style=flat" alt="husnaintahir" /> </p>
 
